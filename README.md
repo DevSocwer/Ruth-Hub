@@ -8,6 +8,10 @@
 - Football Fusion 2 (FF2)
 - Fisch (FCH)
 - Murder Mystery 2 (MM2)
+
+### Support
+- **Mobile All Executors / Pc Some Problems i dont gonna fix it so do it your self buddy**
+
 # Credits
 - *Creator/Scripted By Socwer,Faith*
 ### Some Others
