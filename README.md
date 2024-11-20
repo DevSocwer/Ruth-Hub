@@ -8,10 +8,11 @@
 - Football Fusion 2 (FF2)
 - Fisch (FCH)
 - Murder Mystery 2 (MM2)
-### Credits
-- *Creator/Scripted By Socwer*
+# Credits
+- *Creator/Scripted By Socwer,Faith*
+### Some Others
 - *Blade Ball Src By Nurysium*
 - *Esp Pack Src 2022*
 - *Ui Kavo By xHeptc*
-### Updates
+# Updates
 -- Coming Soon
