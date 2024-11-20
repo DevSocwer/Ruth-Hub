@@ -9,8 +9,8 @@
 - Fisch
 ### Credits
 - *Creator/Scripted By Socwer*
-- *Blade Ball Src Some Idk By Nurysium*
-- *Esp Pack By Idk Credit to Owner*
+- *Blade Ball Src By Nurysium*
+- *Esp Pack Src 2022*
 - *Ui Kavo By xHeptc*
 ### Updates
 -- Coming Soon
