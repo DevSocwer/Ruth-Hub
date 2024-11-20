@@ -1,13 +1,13 @@
 # Ruth Hub
-**Best BB/TSB/FF2 Script Like 100+ Features**
+**Best Script Like 100+ Features Src**
 **Heres is Everything is Open Sourced And Updated Every Time If Im Not Lazy Enough To Add**
 
 ### List Of Games That I decided
-- Blade Ball
-- The Strongest Battlegrounds
-- Football Fusion 2
-- Fisch
-- Murder Mystery 2
+- Blade Ball (BB)
+- The Strongest Battlegrounds (TSBG)
+- Football Fusion 2 (FF2)
+- Fisch (FCH)
+- Murder Mystery 2 (MM2)
 ### Credits
 - *Creator/Scripted By Socwer*
 - *Blade Ball Src By Nurysium*
